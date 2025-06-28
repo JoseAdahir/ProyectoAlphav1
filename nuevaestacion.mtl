@@ -1,0 +1,92 @@
+# Blender 4.0.1 MTL File: 'nuevaestacion.blend'
+# www.blender.org
+
+newmtl Posters2_MAT
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Posters2_Diffuse.png
+
+newmtl Posters_MAT
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Posters_Diffuse.png
+
+newmtl StoneFloorPuddle_MAT
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TileableFloor_Diffuse.png
+
+newmtl StoneFloor_MAT
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd TileableFloor_Diffuse.png
+
+newmtl Trimsheet_MAT
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Subway_Trimsheet_Diffuse.png
+
+newmtl pasted__Trimsheet_MAT
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Subway_Trimsheet_Diffuse.png
+
+newmtl pasted__Trimsheet_MAT1
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Subway_Trimsheet_Diffuse.png
+
+newmtl pasted__Trimsheet_MAT2
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Subway_Trimsheet_Diffuse.png
+
+newmtl pasted__Trimsheet_MAT3
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Subway_Trimsheet_Diffuse.png
+
+newmtl pasted__Trimsheet_MAT4
+Ns 63.117920
+Ka 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Subway_Trimsheet_Diffuse.png
